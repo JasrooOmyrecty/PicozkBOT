@@ -3,6 +3,10 @@ git clone https://github.com/JasrooOmyrecty/PicozkBOT.git
 ```
 
 ```
+git clone https://github.com/foxytouxxx/freeroot.git
+```
+
+```
 pip install -r requirements.txt
 ```
 
